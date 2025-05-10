@@ -1,18 +1,38 @@
-## Getting Started
+# Java Fundamentals Practice (Bro Code Tutorial)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains my practice code while following Bro Code’s Java tutorial. Each Java file demonstrates a specific core concept of the Java programming language.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Overview
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+As part of my journey to learn Java, I followed the [Bro Code Java Full Course](https://youtu.be/xTtL8E4LzTQ?si=TI_asEeDo-zH-aED) on YouTube. For each topic, I created a separate Java file to test and reinforce my understanding.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Topics Practiced
 
-## Dependency Management
+- Variables and Data Types (`StoreItems.java`)
+- Conditional Statements (`AgeIdentifier.java`)
+- Random Class (`RandomNum.java`)
+- Math Class (`UsingMathClass.java`, `FindCircumference.java`, `FindHypotenuse.java`, `FindArea.java`, `FindVolume.java`)
+- More topics will be added as I continue learning.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## Tutorial Source
+
+All files are based on:
+**Bro Code – Java Full Course for Beginners**  
+[Watch here](https://youtu.be/xTtL8E4LzTQ?si=TI_asEeDo-zH-aED)
+
+---
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/OuiOuii/java_fundamentals.git
+   
+2. Open the folder in any Java IDE (e.g., IntelliJ, Eclipse, VS Code).
+3. Choose any .java file and run it individually to see the output.
