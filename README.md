@@ -32,4 +32,7 @@ All files are based on:
 
 1. Clone this repository:
    ```bash
+   git clone https://github.com/OuiOuii/java_fundamentals.git
    
+2. Open the folder in any Java IDE (e.g., IntelliJ, Eclipse, VS Code).
+3. Choose any .java file and run it individually to see the output.
