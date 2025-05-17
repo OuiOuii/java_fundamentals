@@ -1,4 +1,4 @@
-package basics;
+package basics.if_statements;
 import java.util.Scanner;
 
 public class AgeIdentifier {

@@ -1,4 +1,4 @@
-package basics;
+package basics.random_class;
 import java.util.Random;
 
 public class RandomNum {

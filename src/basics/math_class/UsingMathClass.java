@@ -1,4 +1,4 @@
-package basics;
+package basics.math_class;
 public class UsingMathClass {
     public static void main(String[] args) {
         double num = -4.7;

@@ -1,4 +1,4 @@
-package basics;
+package basics.math_class;
 
 import java.util.Scanner;
 public class FindHypotenuse {
