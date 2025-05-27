@@ -1,4 +1,4 @@
-package basics;
+package basics.scanner;
 import java.util.Scanner;
 
 public class StoreItems {
