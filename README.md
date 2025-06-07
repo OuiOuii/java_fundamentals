@@ -1,30 +1,20 @@
-# Java Fundamentals Practice (Bro Code Tutorial)
+# Java Fundamentals Practice (Roadmap.sh)
 
-This repository contains my practice code while following Bro Code’s Java tutorial. Each Java file demonstrates a specific core concept of the Java programming language.
+This repository contains my practice code while following Roadmap.sh Java tutorial. Each Java file demonstrates a specific core concept of the Java programming language.
 
 ---
 
 ## Overview
 
-As part of my journey to learn Java, I followed the [Bro Code Java Full Course](https://youtu.be/xTtL8E4LzTQ?si=TI_asEeDo-zH-aED) on YouTube. For each topic, I created a separate Java file to test and reinforce my understanding.
-
----
-
-## Topics Practiced
-
-- Variables and Data Types (`StoreItems.java`)
-- Conditional Statements (`AgeIdentifier.java`)
-- Random Class (`RandomNum.java`)
-- Math Class (`UsingMathClass.java`, `FindCircumference.java`, `FindHypotenuse.java`, `FindArea.java`, `FindVolume.java`)
-- More topics will be added as I continue learning.
+As part of my journey to learn Java, I followed the Roadmap.sh Java roadmap. For each topic, I created a separate Java file to test and reinforce my understanding.
 
 ---
 
 ## Tutorial Source
 
 All files are based on:
-**Bro Code – Java Full Course for Beginners**  
-[Watch here](https://youtu.be/xTtL8E4LzTQ?si=TI_asEeDo-zH-aED)
+**Roadmap.sh - Java Developer Roadmap**  
+[https://roadmap.sh/java]
 
 ---
 
@@ -35,4 +25,4 @@ All files are based on:
    git clone https://github.com/OuiOuii/java_fundamentals.git
    
 2. Open the folder in any Java IDE (e.g., IntelliJ, Eclipse, VS Code).
-3. Choose any .java file and run it individually to see the output.
+3. Choose any Main.java file and run it individually to see the output.
