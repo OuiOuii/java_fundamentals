@@ -7,7 +7,7 @@ public class Mathtools {
         return a + b;
     }
 
-    //this is a static method, it is NOT owned by the class itself therefore the values can NOT BE SHARED by each objects.
+    //this is NOT a static method, it is NOT owned by the class itself therefore the values can BE SHARED by each objects.
     int multiply(int a, int b){
         return a * b;
     }
